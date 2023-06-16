@@ -1,7 +1,3 @@
-# skill-test-1
-
-Sure! Here's a sample README file for running a Node.js application:
-
 Skill Test Application
 This is a Node.js application developed for the skill test.
 
