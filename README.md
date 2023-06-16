@@ -39,5 +39,3 @@ routes: Contains the route files for defining the application's endpoints.
 views: Contains the EJS templates for rendering HTML views.
 License
 This project is licensed under the ISC License.
-
-Feel free to customize the README file according to your specific application and requirements.
